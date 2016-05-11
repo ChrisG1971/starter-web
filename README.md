@@ -1,7 +1,6 @@
-# Starter Web Repo
+#  Heading
 
-This repository is for showing how Git and GitHub work
+## Secondary Heading
 
-## Purpose
+## Secondary Heading 2
 
-Sample website with plenty of files for demos
